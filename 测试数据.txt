@@ -1,0 +1,5 @@
+13 vivian 123 120
+4 summer 110 126
+19 sue 115 123
+2 joker 120 117
+36 adian 109 136 
